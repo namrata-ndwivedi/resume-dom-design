@@ -1,0 +1,119 @@
+.main-box{
+    padding: 0 100px;
+    height: 100%;
+}
+
+.avatar{
+    position: relative;
+    top:30px;
+    margin:auto;
+    display: block;
+    border: 5px dotted sandybrown;
+    border-radius: 100px;
+}
+
+.person-name{
+    background-color: #f9bf28;
+    position: relative;
+    bottom: 50px;
+    margin:auto;
+    display: block;
+    text-align: center;
+    width: 300px;
+    padding: 30px;
+    font-size: xx-large;
+    border-radius: 12px;
+    letter-spacing: 2px;
+}
+
+.gray-ornament{
+    background-color: gray;
+    height: 200px;
+}
+
+.white-ornament{
+    background-color: whitesmoke;
+    height: 30px;
+}
+.bg3{
+    background-color: gray;
+    height: 40px;
+}
+
+.details{
+    font-size: small;
+    text-align: center;
+    color: rgb(71, 69, 69);
+    font-weight: 600;
+    padding: 10px;
+}
+
+.section{
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.left-side-section{
+    width: 45%;
+    float: left;
+    padding: 0 30px 0 30px;
+}
+
+.right-side-section{
+    width: 45%;
+    float:right;
+    border-left: 1px solid gray;
+    padding: 0 0 0 50px;
+}
+
+i.fa{
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0px 0px 2px #888;   
+}
+
+.icon-style{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: #ece145;
+    border: 3px dotted #f9bf28;
+}
+
+.header-style{
+    font-size: xx-large;
+    color: gray;
+    position: relative;
+    bottom: 10px;
+}
+
+.profile-section{
+    position: relative;
+}
+
+.content{
+    font-size: 15px;
+    color: black;
+    display: block;
+    padding: 10px;
+}
+
+.skill-header{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 500;
+    color: black;
+}
+
+.skill-section{
+    width: 50%;
+    display: block;
+    float: left;
+}
+
+.thead{
+    text-align: center;
+    font-size: x-large;
+    font-weight: 500;
+}
